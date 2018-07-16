@@ -1,0 +1,13 @@
+C:\Users\Estivan\documents\visual studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.Form1.resources
+C:\Users\Estivan\documents\visual studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Users\Estivan\documents\visual studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.csproj.GenerateResource.cache
+C:\Users\Estivan\documents\visual studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\bin\Debug\Example.exe.config
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\bin\Debug\Example.exe
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\bin\Debug\Example.pdb
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\bin\Debug\VelyseTheme.dll
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\bin\Debug\VelyseTheme.pdb
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.csprojAssemblyReference.cache
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.csproj.CopyComplete
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.exe
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\Example\obj\Debug\Example.pdb
